@@ -1,0 +1,6 @@
+Course Objectives :
+1. To develop basic applications using Python language
+2. To understand basic data structure of Python and apply the same to
+solve various types of problems.
+3. To understand the concepts of Object-oriented programming features
+of Python.
