@@ -22,6 +22,7 @@ class Student:
             print("RAM:", self.ram)
 
 
-s1 = Student("Natho", 101)
+s1 = Student("YK", 101)
+
 
 s1.show()
