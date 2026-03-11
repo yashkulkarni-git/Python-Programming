@@ -16,8 +16,9 @@ class Student:
         print("School Name:", cls.school)
 
 
-s1 = Student("Natho", 85)
+s1 = Student("YK", 85)
 
 s1.display()
+
 
 Student.showSchool()
