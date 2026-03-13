@@ -18,4 +18,5 @@ class Student:
 s = Student()
 
 s.AddStudent()
+
 s.DisplayStudent()
